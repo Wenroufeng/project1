@@ -35,6 +35,10 @@ Thank `You` . Please `Call` Me `Coder`
 * 别名：隔壁老王  
 * 英文名：Jelly * a
 
+* 编程语言  
+    * 脚本语言  
+        * Python  
+
 
 ![](./timg.jpg)  
 
